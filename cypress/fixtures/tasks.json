@@ -1,0 +1,17 @@
+{
+    "create": {
+        "user": {
+            "name": "Robson Cerqueira",
+            "email": "robson@gmaster.com",
+            "password": "pwd123"
+        },
+        "task": {
+            "name": "Pagar a fatura de meu cartão",
+            "tags": [
+                "nubank",
+                "smiles",
+                "ourocard"
+            ]
+        }
+    }
+}
